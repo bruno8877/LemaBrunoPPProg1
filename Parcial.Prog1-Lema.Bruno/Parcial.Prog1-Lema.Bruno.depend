@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589761567 source:c:\users\bruno\onedrive\escritorio\program\parcial.prog1-lema.bruno\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589804700 source:c:\users\bruno\onedrive\escritorio\program\parcial\parcial.prog1-lema.bruno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
